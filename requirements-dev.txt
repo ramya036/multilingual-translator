@@ -1,0 +1,6 @@
+deep-translator>=1.11
+indic-transliteration>=2.3
+pypdf>=4.0
+gTTS>=2.5
+fpdf2>=2.7
+pytest
