@@ -1,4 +1,4 @@
-# MultiLingual Translator & Transliterator
+# Multilingual Translator & Transliterator
 
 A desktop app that translates and transliterates between languages. Input can be **typed text, a PDF or text file, or live speech**, and the result comes back as **text and spoken audio**. It's especially useful for Indian languages, where transliteration (for example, Devanagari ↔ Kannada script) matters as much as translation.
 
